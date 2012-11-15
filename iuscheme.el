@@ -220,6 +220,7 @@ as applications.
    (0 . values)
    (1 . let-values)
    (0 . call/cc)
+   (0 . call/1cc)
    (0 . eval)
    ))
 

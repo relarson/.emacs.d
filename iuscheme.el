@@ -205,6 +205,9 @@ as applications.
    (0 . not)
    (0 . quote)
    (0 . guard)
+   (0 . fields)
+   (0 . mutable)
+   (0 . immutable)
    ))
 
 (scheme-add-keywords

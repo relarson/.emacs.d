@@ -210,6 +210,7 @@ as applications.
 (scheme-add-keywords
  'font-lock-keyword-face
  '((1 . define-who)
+   (1 . define-record-type)
    (1 . match)
    (1 . pmatch)
    ))
